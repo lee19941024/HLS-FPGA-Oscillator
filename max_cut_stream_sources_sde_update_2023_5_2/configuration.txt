@@ -1,0 +1,10 @@
+interface 
+
+J_IN pipline II=5;
+PHI_IN PIPELINE II=5;
+DWT_IN PIPELIN II=5;
+
+PHI_OUT PIPELINE II=5;
+
+F=100
+FINAL=20
